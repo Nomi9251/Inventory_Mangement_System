@@ -41,6 +41,7 @@ Institute_Inventory_System/
 └── README.md
 
 🚀 How to Run the Project
+
 ▶️ Option 1: Run the Executable File
 
 Open the Executable_Files folder
@@ -98,6 +99,7 @@ Administrators can efficiently track, manage, and report inventory data without 
 
 📜 License
 
+
 This project is developed solely for academic and educational purposes.
 All rights reserved © 2025 M. Noman Shafi.
 
@@ -111,6 +113,3 @@ Email: shafimnoman@gmail.com
 
 GitHub: https://github.com/Nomi9251
 
-Email: shafimnoman@gmail.com
-
-GitHub: https://github.com/Nomi9251 
